@@ -1,5 +1,9 @@
 # Ethereum-From-Scratch
-A collection of resources useful from Scratch
+A collection of resources I found useful while learning Ethereum from Scratch
+
+I have compiled the resources in an order that I think would make the most sense to new learners if they went through the list sequentially.
+
+Pull request and resource recommendations are welcome
 
 ## Basics of Blockchain
 
