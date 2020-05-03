@@ -11,4 +11,7 @@ These two videos are the best introductions I have found to core blockchain conc
 
 - [Blockchain 101 - Visual Introduction to Blockchain - Anders Brownworth](https://www.youtube.com/watch?v=_160oMzblY8)
 - [Blockchain 101 - Part 2 - Anders Brownworth](https://www.youtube.com/watch?v=xIDL_akeras)
+
+## Cryptography
+
 - [Elliptic Curve Cryptography - Jimy Song](https://www.youtube.com/watch?v=e6voIwB-An4)
