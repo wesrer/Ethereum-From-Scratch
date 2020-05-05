@@ -15,3 +15,7 @@ These two videos are the best introductions I have found to core blockchain conc
 ## Cryptography
 
 - [Elliptic Curve Cryptography - Jimy Song](https://www.youtube.com/watch?v=e6voIwB-An4)
+
+## Ethereum Internals
+
+- [What is an Ethereum Keystore File](https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97)
